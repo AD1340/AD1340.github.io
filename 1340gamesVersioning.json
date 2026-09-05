@@ -1,0 +1,14 @@
+{
+	"hm": {
+		"game": "hm - the rhythm game",
+		"version": "0.6.1"
+	},
+	"brg": {
+		"game": "Rhythm Buttons",
+		"version": null
+	},
+	"ua": {
+		"game": "Unseen Arrow",
+		"version": null
+	}
+}
